@@ -8,5 +8,8 @@ pasta
 risato
 chicken fried
 
+pizza 
+Beans
+
 
 thank you !
